@@ -1,4 +1,4 @@
-package cn.itsukina.java.algorithm._0146;
+package cn.cjj.java.algorithm._0146;
 
 import java.util.HashMap;
 import java.util.Map;

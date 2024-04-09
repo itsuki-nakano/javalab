@@ -1,4 +1,4 @@
-package cn.itsukina.java.algorithm._0056;
+package cn.cjj.java.algorithm._0056;
 
 import java.util.ArrayList;
 import java.util.Arrays;

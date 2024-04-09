@@ -1,4 +1,4 @@
-package cn.itsukina.java.juc.singleton;
+package cn.cjj.java.juc.singleton;
 
 import java.time.LocalTime;
 import java.util.concurrent.ArrayBlockingQueue;

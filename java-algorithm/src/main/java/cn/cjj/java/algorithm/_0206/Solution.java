@@ -1,4 +1,4 @@
-package cn.itsukina.java.algorithm._0206;
+package cn.cjj.java.algorithm._0206;
 
 
 class ListNode {

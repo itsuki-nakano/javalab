@@ -1,4 +1,4 @@
-package cn.itsukina.java.algorithm._0215;
+package cn.cjj.java.algorithm._0215;
 
 public class Solution {
 

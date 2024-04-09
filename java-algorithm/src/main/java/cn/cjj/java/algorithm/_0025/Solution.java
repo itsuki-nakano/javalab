@@ -1,4 +1,4 @@
-package cn.itsukina.java.algorithm._0025;
+package cn.cjj.java.algorithm._0025;
 
 class ListNode {
     int val;

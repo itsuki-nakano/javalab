@@ -1,4 +1,4 @@
-package cn.itsukina.java.algorithm._0200;
+package cn.cjj.java.algorithm._0200;
 
 import java.util.Deque;
 import java.util.LinkedList;
